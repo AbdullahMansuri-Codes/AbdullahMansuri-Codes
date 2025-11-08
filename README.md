@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hey there, I'm Abdullah  
 
-<!--
-**AbdullahMansuri-Codes/AbdullahMansuri-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Aspiring AI/ML Engineer** | 🐍 **Python Developer** | 📊 **Data Science Enthusiast**  
 
-Here are some ideas to get you started:
+🚀 Building intelligent solutions using **Python, Machine Learning, and Data Analysis**  
+🧠 Exploring **Deep Learning, NLP, and Generative AI**  
+🌱 Currently mastering **Mathematics for ML** and **Python Libraries**  
+🎯 Dream: Build innovative AI systems & launch my own AI startup  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,matplotlib,scikitlearn,git,vscode,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMansuri-Codes&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMansuri-Codes&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🌐 Connect with Me  
+📫 [LinkedIn](https://linkedin.com/in/abdullah-mansuri-0b9224363) • ✉️ [Email](mailto:freshfinds2030@gmail.com)
