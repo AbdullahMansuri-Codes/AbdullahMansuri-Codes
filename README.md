@@ -25,4 +25,4 @@
 ---
 
 ### 🌐 Connect with Me  
-📫 [LinkedIn](https://linkedin.com/in/abdullah-mansuri-0b9224363) • ✉️ [Email](mailto:freshfinds2030@gmail.com)
+📫 [LinkedIn](https://linkedin.com/in/abdullah-mansuri-0b9224363) • ✉️ [Email](mailto:freshfinds2030@gmail.com)  • 📸 [Instagram](https://instagram.com/abdullah_.py) 
