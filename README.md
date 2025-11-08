@@ -1,4 +1,4 @@
-l# 👋 Hey there, I'm Abdullah  
+# 👋 Hey there, I'm Abdullah  
 
 💡 **Aspiring AI/ML Engineer** | 🐍 **Python Developer** | 📊 **Data Science Enthusiast**  
 
