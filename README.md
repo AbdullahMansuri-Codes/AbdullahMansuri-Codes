@@ -50,7 +50,6 @@ I'm passionate about **transforming ideas into intelligent systems** that solve 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMansuri-Codes&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMansuri-Codes&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages"/>
 </p>
 
